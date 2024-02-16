@@ -1,0 +1,42 @@
+Player,Position,Country,GK Goals Against,GK Saves,GK Clean Sheets,GK Clean Sheets Percentage,GK Pens Attempted,GK Pens Allowed,GK Pens Saved,GK Pens Missed,GK Goals Against,GK Pens Allowed,GK Free Kick Goals Against,GK Corner Kick Goals Against,GK Own Goals Against,GK Passes Completed Launched,GK Passes Launched,GK Passes,GK Passes Throws,GK Percent Passes Launched 40 Yards,GK Goal Kick Length Avg,GK Crosses Faced,GK Crosses Stopped,GK Defensive Actions Outside Pen Area,GK Avg Distance Defensive Actions
+Alisson,GK,Brazil,2,5,2,50.0,0,0,0,0,2,0,0,0,0,5,14,74,12,13.5,25.6,44,0,7,22.0
+Lawrence Ati-Zigi,GK,Ghana,7,10,0,0.0,1,1,0,0,7,1,0,0,0,13,36,47,8,53.2,35.0,58,2,1,11.4
+Meshaal Barsham,GK,Qatar,5,4,0,0.0,0,0,0,0,5,0,0,1,0,6,19,42,9,38.1,21.4,22,1,2,11.3
+Alireza Beiranvand,GK,Iran,1,4,0,0.0,0,0,0,0,1,0,0,0,0,5,16,22,3,40.9,53.1,19,0,0,4.7
+Milan Borjan,GK,Canada,7,8,0,0.0,0,0,0,0,7,0,0,0,0,11,29,82,22,31.7,28.3,29,0,2,15.1
+Yassine Bounou,GK,Morocco,5,7,3,50.0,0,0,0,0,5,0,0,0,1,32,79,151,16,29.1,46.6,92,5,6,12.7
+Diogo Costa,GK,Portugal,6,11,1,20.0,0,0,0,0,6,0,0,2,0,13,52,123,22,31.7,39.7,47,3,8,15.8
+Thibaut Courtois,GK,Belgium,2,8,2,66.7,1,0,1,0,2,0,0,0,0,10,23,87,15,17.2,33.5,36,1,2,14.0
+Aymen Dahmen,GK,Tunisia,1,9,2,66.7,0,0,0,0,1,0,0,0,0,15,41,59,7,49.2,51.1,52,0,0,12.0
+Ederson,GK,Brazil,1,2,0,0.0,0,0,0,0,1,0,0,0,0,3,4,25,10,12.0,29.8,8,0,2,15.5
+Devis Epassy,GK,Cameroon,3,9,1,50.0,0,0,0,0,3,0,0,0,0,23,47,58,11,48.3,53.4,40,3,0,8.2
+Hernán Galíndez,GK,Ecuador,3,1,1,33.3,1,1,0,0,3,1,0,0,0,11,40,53,6,47.2,52.0,26,1,2,13.0
+Shūichi Gonda,GK,Japan,4,15,0,0.0,1,1,0,0,4,1,0,0,0,12,54,86,12,44.2,45.7,61,4,0,8.4
+Wayne Hennessey,GK,Wales,1,4,0,0.0,0,0,0,0,1,0,0,0,0,11,26,50,18,36.0,41.0,34,2,1,7.4
+Hossein Hosseini,GK,Iran,6,4,1,100.0,0,0,0,0,6,0,0,1,0,8,30,34,14,55.9,64.6,27,4,0,7.3
+Gregor Kobel,GK,Switzerland,2,2,0,0.0,0,0,0,0,2,0,0,0,0,1,9,21,6,28.6,36.3,19,0,0,14.0
+Dominik Livaković,GK,Croatia,7,24,2,28.6,1,1,0,0,7,1,0,1,0,31,63,178,46,24.2,34.9,99,8,3,10.8
+Hugo Lloris,GK,France,7,17,1,16.7,4,3,0,1,7,3,0,1,0,34,100,125,22,49.6,49.8,70,7,5,13.7
+Steve Mandanda,GK,France,1,2,0,0.0,0,0,0,0,1,0,0,0,0,1,12,22,6,40.9,33.6,19,1,0,11.7
+Emiliano Martínez,GK,Argentina,8,6,3,42.9,2,2,0,0,8,2,0,0,1,15,78,147,34,38.8,45.9,88,12,5,12.8
+Edouard Mendy,GK,Senegal,7,7,0,0.0,0,0,0,0,7,0,0,1,0,15,44,94,15,39.4,30.1,64,3,2,11.8
+Vanja Milinković-Savić,GK,Serbia,8,16,0,0.0,0,0,0,0,8,0,0,1,0,17,50,104,21,33.7,57.2,28,3,8,20.3
+Munir,GK,Morocco,0,3,1,100.0,0,0,0,0,0,0,0,0,0,5,13,15,4,40.0,47.5,17,0,0,11.5
+Keylor Navas,GK,Costa Rica,11,11,1,33.3,1,1,0,0,11,1,0,0,0,20,58,68,14,50.0,52.0,51,2,2,9.9
+Manuel Neuer,GK,Germany,5,8,0,0.0,0,0,0,0,5,0,0,0,0,7,15,113,16,13.3,22.4,22,0,6,20.3
+Andries Noppert,GK,Netherlands,4,18,2,40.0,1,1,0,0,4,1,0,0,0,22,55,152,34,25.7,35.7,63,6,5,13.3
+Guillermo Ochoa,GK,Mexico,3,2,1,33.3,1,0,1,0,3,0,0,1,0,10,24,81,12,19.8,32.8,28,0,3,12.9
+André Onana,GK,Cameroon,1,2,0,0.0,0,0,0,0,1,0,0,0,0,6,20,50,6,36.0,28.6,17,0,0,13.0
+Mohammed Al-Owais,GK,Saudi Arabia,5,14,0,0.0,1,1,0,0,5,1,1,1,0,16,53,71,14,47.9,48.3,55,4,14,18.0
+Jordan Pickford,GK,England,4,7,3,60.0,1,1,0,0,4,1,0,1,0,20,51,123,14,27.6,45.9,39,2,5,16.2
+Sergio Rochet,GK,Uruguay,2,4,2,66.7,2,1,1,0,2,1,0,0,0,6,27,54,6,37.0,29.9,33,2,2,11.0
+Mathew Ryan,GK,Australia,6,12,2,50.0,0,0,0,0,6,0,0,1,0,38,85,127,13,50.4,46.2,63,3,6,15.5
+Kasper Schmeichel,GK,Denmark,3,8,1,33.3,0,0,0,0,3,0,0,0,0,9,24,71,12,26.8,35.8,38,0,5,19.2
+Kim Seung-gyu,GK,Korea Republic,8,11,1,25.0,1,1,0,0,8,1,0,0,0,11,42,99,12,28.3,43.3,47,3,5,15.2
+Saad Al Sheeb,GK,Qatar,2,1,0,0.0,1,1,0,0,2,1,0,0,0,2,3,16,4,18.8,25.8,11,0,1,14.7
+Unai Simón,GK,Spain,3,6,2,50.0,0,0,0,0,3,0,0,0,0,7,11,138,19,7.2,21.4,22,4,6,15.7
+Yann Sommer,GK,Switzerland,7,12,1,33.3,0,0,0,0,7,0,0,1,0,6,13,99,17,13.1,16.7,49,2,1,9.8
+Wojciech Szczęsny,GK,Poland,5,21,2,50.0,2,0,2,0,5,0,0,0,0,40,95,109,13,62.4,56.3,66,1,0,7.9
+Matt Turner,GK,United States,4,8,2,50.0,1,1,0,0,4,1,0,0,0,13,38,108,24,24.1,48.1,42,7,5,13.8
+Danny Ward,GK,Wales,5,4,0,0.0,0,0,0,0,5,0,1,0,0,12,27,30,2,60.0,63.1,14,1,1,12.8
+Wéverton,GK,Brazil,0,0,0,,0,0,0,0,0,0,0,0,0,2,4,3,0,66.7,67.5,0,0,0,
